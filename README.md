@@ -65,7 +65,7 @@ The app will:
 
 <h2>📂 Repository Structure</h2>
 <pre>
-├── main.py                # Core simulation and Streamlit GUI
+├── Quantum.py             # Core simulation and Streamlit GUI
 ├── simulation_result.jpeg # Example output image
 ├── requirements.txt       # Dependencies
 └── README.md              # Project documentation
